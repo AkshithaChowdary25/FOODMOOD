@@ -3,7 +3,8 @@
 *Overview*
 Welcome to “FOODMUNCH food e-commerce platform that offers a variety of delicious and fresh food products. This web application is built to streamline the online ordering process, making it easier for customers to browse, select, and purchase food items online. 
 
-Features
+
+*Features*
 
 •	User-Friendly Authentication: Customers can easily sign up, log in, and manage their profiles for a personalized experience.
 
@@ -18,6 +19,7 @@ Features
 •	Responsive Design: Optimized for all devices—mobile, tablet, and desktop.
  
 Tech Stack
+
 •⁠  ⁠*Backend*: Django (Python)
 
 •⁠  ⁠*Frontend*: HTML, CSS, JavaScript
